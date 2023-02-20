@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: AccountMS.MicroserviceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.895 s <<< FAILURE! - in AccountMS.MicroserviceApplicationTests
+AccountMS.MicroserviceApplicationTests  Time elapsed: 1.888 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
